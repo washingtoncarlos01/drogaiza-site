@@ -1,14 +1,15 @@
-Drogaria Drogaiza — site com favicon e Google Analytics 4
+DROGAIZA — SITE COMPLETO
 
-Arquivos:
-- index.html: página do site, com GA4 G-W1FFW23WM8 e links para o favicon.
-- assets/logo-drogaiza.jpg: logomarca oficial usada no site.
-- assets/favicon.ico e assets/favicon.png: ícone do navegador baseado no símbolo da logomarca.
+Conteúdo:
+- index.html: página principal do site
+- assets/logo-drogaiza.jpg: logomarca usada no site
+- assets/favicon.png e assets/favicon.ico: favicon corrigido, com o símbolo completo do coração e fundo branco
+- Google Analytics 4 configurado com o ID G-W1FFW23WM8
 
-Publicação no GitHub Pages:
-1. Abra o repositório do site.
-2. Substitua o index.html pela versão desta pasta.
-3. Envie também a pasta assets, mantendo os arquivos dentro dela.
-4. Faça Commit changes e aguarde a publicação.
+PUBLICAÇÃO NO GITHUB PAGES
+1. Extraia este ZIP.
+2. Envie index.html e a pasta assets para a raiz do repositório do site.
+3. Mantenha a pasta assets e seus nomes de arquivos.
+4. Clique em Commit changes no GitHub.
 
-Não apague logo-drogaiza.jpg: o site também depende desse arquivo.
+O favicon foi redimensionado proporcionalmente para caber inteiro no quadrado, com margem branca, sem cortar as pontas do coração.
