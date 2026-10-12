@@ -1,15 +1,31 @@
-DROGAIZA — SITE COMPLETO
+DROGARIA DROGAIZA — PACOTE DO SITE
 
 Conteúdo:
-- index.html: página principal do site
-- assets/logo-drogaiza.jpg: logomarca usada no site
-- assets/favicon.png e assets/favicon.ico: favicon corrigido, com o símbolo completo do coração e fundo branco
-- Google Analytics 4 configurado com o ID G-W1FFW23WM8
+- index.html: página principal atualizada com logomarca horizontal, GA4 e melhorias técnicas de SEO.
+- assets/logo-drogaiza-horizontal.jpg: logomarca horizontal oficial usada no cabeçalho, conteúdo e compartilhamento.
+- assets/logo-drogaiza.png e assets/logo-drogaiza.jpg: versões anteriores mantidas como arquivos complementares.
+- assets/favicon.png e assets/favicon.ico: favicon com fundo branco e coração completo.
+- robots.txt: permite rastreamento público e informa o sitemap.
+- sitemap.xml: sitemap XML para o Google e outros buscadores.
 
-PUBLICAÇÃO NO GITHUB PAGES
-1. Extraia este ZIP.
-2. Envie index.html e a pasta assets para a raiz do repositório do site.
-3. Mantenha a pasta assets e seus nomes de arquivos.
-4. Clique em Commit changes no GitHub.
+SEO implementado:
+- título e descrição em português com intenção de busca local;
+- canonical para https://www.drogaiza.com.br/;
+- meta robots index/follow;
+- dados estruturados Schema.org do tipo Pharmacy com telefone e endereço fornecidos;
+- metadados Open Graph e Twitter para compartilhamento;
+- robots.txt e sitemap.xml.
 
-O favicon foi redimensionado proporcionalmente para caber inteiro no quadrado, com margem branca, sem cortar as pontas do coração.
+Publicação no GitHub Pages:
+1. Extraia o ZIP mantendo a pasta assets e os arquivos robots.txt e sitemap.xml na raiz do repositório.
+2. Envie/substitua os arquivos no repositório publicado pelo GitHub Pages.
+3. Faça Commit changes e aguarde a publicação.
+4. Abra https://www.drogaiza.com.br/ e atualize com Ctrl+F5.
+5. No Google Search Console, adicione/verifique o domínio e envie o sitemap: https://www.drogaiza.com.br/sitemap.xml.
+6. Use a inspeção de URL no Search Console para solicitar indexação da página inicial.
+
+Importante: SEO técnico facilita o rastreamento e ajuda os mecanismos de busca a entenderem o site, mas não garante posição específica no Google. Mantenha endereço, telefone, perfil da empresa no Google e informações comerciais consistentes. Não foram inventados horários de funcionamento.
+
+
+CORREÇÃO DA LOGOMARCA (12/10/2026)
+A logomarca horizontal foi recortada diretamente da página “Versão Horizontal” do PDF oficial LogoTipo_Drogaiza fornecido pelo proprietário. Os arquivos de logomarca usam agora essa arte original; não foi desenhada nem substituída por uma marca de terceiros.
