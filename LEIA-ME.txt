@@ -31,3 +31,14 @@ CORREÇÃO DA LOGOMARCA (12/10/2026)
 A logomarca horizontal foi recortada diretamente da página “Versão Horizontal” do PDF oficial LogoTipo_Drogaiza fornecido pelo proprietário. Os arquivos de logomarca usam agora essa arte original; não foi desenhada nem substituída por uma marca de terceiros.
 
 Telefone fixo incluído no site: (62) 3248-6777. O WhatsApp permanece (62) 98550-6777.
+
+
+OTIMIZAÇÃO SEO LOCAL, PERFORMANCE E MOBILE (15/10/2026)
+- Título e meta description refinados para farmácia/drogaria em Colina Azul, Aparecida de Goiânia.
+- Schema.org Pharmacy enriquecido com CEP 74970-555 e faixa de preço indicativa; horários não foram inventados.
+- H2 com termos de busca local e telefones fixo/WhatsApp também no rodapé.
+- Logomarca horizontal convertida para WebP, com JPG de fallback; imagens com alt descritivo.
+- Links e botões com área mínima de toque de 44 px e ajustes de espaçamento em telas pequenas.
+- robots.txt mantido permitindo rastreamento e apontando para o sitemap; sitemap atualizado para 2026-10-15.
+
+Observação: confira se o nome, endereço e os dois telefones correspondem exatamente ao Perfil da Empresa no Google. Não foram adicionados horários nem avaliações não confirmados. A atualização do ZIP não publica automaticamente o site no GitHub Pages.
